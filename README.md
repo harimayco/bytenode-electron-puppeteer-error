@@ -7,8 +7,8 @@ Example code using [Bytenode](https://github.com/OsamaAbbas/bytenode) + [Bytenod
 At the command line:
 
 ```bash
-git clone https://github.com/spaceagetv/electron-bytenode-example.git
-cd electron-bytenode-example
+git clone https://github.com/harimayco/bytenode-electron-puppeteer-error.git
+cd bytenode-electron-puppeteer-error
 npm install
 npm start
 ```
