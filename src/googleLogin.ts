@@ -22,6 +22,7 @@ export default class BotGoogleLogin {
       console.log('User Trying to login');
       return await this.doLogin();
     } catch (err) {
+      console.log(err);
       throw new Error(`Login Failed`)
     }
   }
